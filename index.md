@@ -14,4 +14,4 @@ Xen for Android: A mobile-centric containerization platform for both phones and 
  * Flexibility
  * Software freedom
 
-This project aims to bring the benefits of the open source Xen hypervisor to Android handsets, bringing enhanced security to both consumers and businesses.
+This project aims to bring the benefits of the open source Xen hypervisor to Android handsets, offering enhanced security to both consumers and businesses.
